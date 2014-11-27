@@ -1,0 +1,44 @@
+body{
+  font-family: 'Shift', sans-serif;
+  color: black;
+  background-image: url("http://content.sportslogos.net/logos/6/218/full/b63l7nnxd3bl0cxemi3qahbbp.gif");
+}
+
+.nav{
+  padding: 50px;
+  color:white;
+  padding-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgba(117,216,255,.95);
+  text-align: center;
+}
+
+
+.jumbotron .tweets{
+  display: inline;
+  margin-top:10px;
+  //margin-left: 100px;
+  //margin-right: 1px;
+  text-align: center;
+}
+
+.jumbotron .blurb {
+  padding: 20px;
+}
+
+.jumbotron{
+  background:rgba(198,226,255,0.95);
+}
+
+.col-md-6{
+  margin-left: 100px;
+}
+
+.col-md-4{
+  float:right;
+  margin-right: 20px;
+}
+
+.blurb h4{
+  font-weight: bold;
+}
